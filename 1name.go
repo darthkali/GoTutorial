@@ -2,8 +2,8 @@ package main
 
 import "fmt"
 
-func main() {
-
+func name() {
+	fmt.Println("=== Aufgabe 1 Name ===")
 	name := "Danny"
 	age := 35
 
